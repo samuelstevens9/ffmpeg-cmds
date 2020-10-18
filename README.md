@@ -2,7 +2,7 @@
 
 A collection of handy FFMPEG commands to perform things like crop a video, image overlay, make a GIF.
 
-## Video 2 GIF
+## Video to GIF
 
 Convert video to gif file. Usage: `video2gif video_file (scale) (fps)`
 
